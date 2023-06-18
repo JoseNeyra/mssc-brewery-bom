@@ -14,7 +14,6 @@
     <groupId>com.joseneyra</groupId>
     <artifactId>mssc-brewery-bom</artifactId>
     <version>1.0.0</version>
-
     <packaging>pom</packaging>
 
     <licenses>
